@@ -1,14 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3a1e7be-b81f-45af-a112-3d72c637f4aa" name="Changes" comment="" />
+    <list default="true" id="b3a1e7be-b81f-45af-a112-3d72c637f4aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MainHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test1a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test1b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test1c.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/discount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MzkKv54TkBWh0YotYKUsHEppLx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,14 +46,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.Test10">
+    <configuration name="Test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test10" />
+      <module name="anna" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test6" />
+      <module name="anna" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test7" />
+      <module name="anna" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test8" />
+      <module name="anna" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test9" />
+      <module name="anna" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test10" />
+        <item itemvalue="Application.Test9" />
+        <item itemvalue="Application.Test8" />
+        <item itemvalue="Application.Test7" />
+        <item itemvalue="Application.Test6" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,7 +108,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678777737513</updated>
+      <workItem from="1678777738594" duration="171000" />
+      <workItem from="1678777959886" duration="1779000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
